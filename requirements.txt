@@ -1,0 +1,5 @@
+Django>=4.0
+Pillow
+stripe
+python-dotenv
+gunicorn
